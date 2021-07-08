@@ -48,7 +48,7 @@ Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.co
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/isabellazramos/etl-data-integration
+$ git clone https://github.com/isabellazramos/ETL-fundamentals
 
 # Entre na pasta
 $ cd ETL-fundamentals
