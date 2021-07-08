@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/ETL_Fluxo.gif" alt="ETL Fundamentals" width="250" height="250"/>
+  <img src="./.github/ETL_Fluxo.gif" alt="ETL Fundamentals" width="550" height="550"/>
 
   &#xa0;
 
